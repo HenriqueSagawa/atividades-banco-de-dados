@@ -1,4 +1,4 @@
-create database if not exits aula_douglas;
+create database if not exists aula_douglas;
 
 use aula_douglas;
 
