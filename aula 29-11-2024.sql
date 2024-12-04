@@ -50,3 +50,5 @@ order by depto, nome;
 select nome, depto from cadFun
 where depto = 3
 order by nome;
+
+/* Autoral de Henrique Tutomu Sagawa */
