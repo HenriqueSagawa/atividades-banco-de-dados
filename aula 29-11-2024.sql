@@ -39,7 +39,7 @@ select * from cadFun
 where nome = "CARLOS ALBERTO";
 
 select nome from cadFun
-where codFun = 4
+where codFun = 4;
 
 select nome, funcao, salario from cadFun
 order by salario;
